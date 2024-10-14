@@ -14,7 +14,7 @@ public class ApplicationContext
     public const string Title = "Программа: 'Интернет магазин'";
 
     /// <summary>
-    /// Список товаров
+    /// Список товаро
     /// </summary>
     private readonly Product[] _products = new[]
     {
