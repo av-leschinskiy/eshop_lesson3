@@ -3,7 +3,7 @@ using eshop.Core;
 
 namespace eshop;
 
-/// <summary>
+/// <summary
 /// Контекст сеанса работы приложения
 /// </summary>
 public class ApplicationContext
